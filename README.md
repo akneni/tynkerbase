@@ -1,11 +1,12 @@
-# Tynkerer Cloud Services (TCS)
+# TynkerBase
 
 **The cloud, in the palm of your hand**
 
-TCS provides an easy-to-use, affordable, and educational platform for deploying and managing cloud services on your own hardware.
+TynkerBase provides an easy-to-use, affordable, and educational platform for deploying and managing cloud services on your own hardware.
 
 ## Repositories
-- Coming soon
+- [Landing Page](https://github.com/akneni/tynkerbase-landing-page)
+- [Agent App](https://github.com/akneni/tynkerbase-agent)
 
 ## Getting Started
 - To be determined
