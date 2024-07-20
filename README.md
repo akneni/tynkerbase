@@ -1,18 +1,19 @@
-# TynkerBase
+![Banner](./images/tynkerbase-banner.png)
 
+# TynkerBase
 **The cloud, in the palm of your hand**
 
-TynkerBase provides an easy-to-use, affordable, and educational platform for deploying and managing cloud services on your own hardware.
+TynkerBase provides an open source, zero-knowledge self hosted cloud.
 
 ## Repositories
-- [Landing Page](https://github.com/akneni/tynkerbase-landing-page)
+- [Client App](https://github.com/akneni/tynkerbase-client)
 - [Agent App](https://github.com/akneni/tynkerbase-agent)
+- [Shared Libraries](https://github.com/akneni/tynkerbase-universal)
 
 ## Getting Started
 - To be determined
 
 ### Prerequisites
-
 - To be determined
 
 ### Installation
