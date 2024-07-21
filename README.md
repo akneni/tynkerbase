@@ -15,7 +15,7 @@ TynkerBase provides an open source, zero-knowledge self hosted cloud.
 - More detailed documentation coming soon. 
 
 ## Contributing
-We welcome contributions! Please see our [contributing guidelines](https://github.com/aknen/tynkerbase/CONTRIBUTING.md) for more details.
+We welcome contributions! Please see our [contributing guidelines](https://github.com/akneni/tynkerbase/blob/main/CONTRIBUTING.md) for more details.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/aknen/tynkerbase/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/akneni/tynkerbase/blob/main/LICENSE) file for details.
